@@ -7,3 +7,12 @@ c:\users\caelum\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletr
 c:\users\caelum\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
 c:\users\caelum\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
 C:\Users\caelum\Documents\Visual Studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+C:\Projetos\Estudos _Alura\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+C:\Projetos\Estudos _Alura\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+C:\Projetos\Estudos _Alura\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+C:\Projetos\Estudos _Alura\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+C:\Projetos\Estudos _Alura\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+C:\Projetos\Estudos _Alura\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+C:\Projetos\Estudos _Alura\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Form1.resources
+C:\Projetos\Estudos _Alura\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Properties.Resources.resources
+C:\Projetos\Estudos _Alura\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.Cache
